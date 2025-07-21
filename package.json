@@ -1,0 +1,19 @@
+{
+  "name": "redisrabbitmqpoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyamMish/rabbitmqRedisPOC.git"
+  },
+  "author": "Priyam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyamMish/rabbitmqRedisPOC/issues"
+  },
+  "homepage": "https://github.com/priyamMish/rabbitmqRedisPOC#readme"
+}
